@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3ea8d9f-c946-4963-99b1-e26d0e1ae2ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/11054.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/11722.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11722.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/2579.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/2579.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,10 +121,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="967" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1634017409811" />
-    <state x="1021" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1639544937102">
+    <state x="1021" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1639704487567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1021" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639544937102" />
+    <state x="1021" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639704487567" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
