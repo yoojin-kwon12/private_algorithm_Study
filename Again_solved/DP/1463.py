@@ -40,6 +40,10 @@ print(inp[n])
 """
 
 # 이와 같은 방법으로 했는데 n이 10일때의 답이 틀렸다.
+# range에서 n으로 해서 index 오류가 났었다.
+# list indices must be integers or slices, not float 라는 오류가 생겨서 찾아보니
+#
+
 # min을 사용해야되지 않을까..
 
 # 만약 n이 2로만 나눠진다면?

@@ -1,4 +1,4 @@
-# 11726번
+# 11727번
 
 """
 # 시작 체크 리스트
@@ -17,14 +17,13 @@
 import sys
 
 n = int(sys.stdin.readline().strip())
+inp = [0] * 1001
 
-# dp = [0,1,2,3]
-dp = [0] * 1001
+inp[1] = 1
+inp[2] = 3
+inp[3] = 5
 
-dp[1] = 1
-dp[2] = 2
-dp[3] = 3
 for i in range(4, n+1):
-    dp[i] = dp[i-1] + dp[i-2]
+    inp[i] = inp[i-1] + (2 * inp[i-2])
 
-print(dp[n] % 10007)
+print(inp[n] % 10007)
