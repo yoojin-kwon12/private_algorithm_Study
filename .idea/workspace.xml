@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3ea8d9f-c946-4963-99b1-e26d0e1ae2ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Again_solved/DP/11726.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Again_solved/DP/1463.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/10799.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/10799.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/2751.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/2751.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a0104\PycharmProjects\private_algorithm_Study\Again_solved" />
       <recent name="C:\Users\a0104\PycharmProjects\bakjoon\DP" />
     </key>
   </component>
