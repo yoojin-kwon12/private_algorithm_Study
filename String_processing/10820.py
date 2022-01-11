@@ -24,6 +24,15 @@
 # 제출하니 입력초과가 나왔다.
 # 다른 풀이를 찾아보니 if not n:  break 를 활용하여 입력이 없으면 break처리를 해주어야했다.
 
+##### 알게된것 정리
+
+# 1. 타입검사 함수 : type()
+# 2. sys.stdin.readline()에서 뒤에 strip() 을 붙이면 앞뒤 모든 공백이 제거된다.
+#    뒤의 공백이 필요하지만 엔터는 제거해야 될 때
+#    strip()이 아닌 replace("\n","") 나 rstrip("\n") 을 사용한다.
+# 3. 입력값의 갯수가 정해져있지 않을때는 if not n : break 를 사용하여 입력이 없을땐 break를 걸어야한다.
+
+
 import sys
 
 while True:
